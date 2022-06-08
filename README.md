@@ -1,0 +1,3 @@
+- Vamos a hacer el típico TODO list o lista de supermercado. Debe tener un formulario que nos deje agregar productos y cada producto un botón para borrarlo.
+- Ahora al clickear un elemento, debemos tacharlo y si está tachado, debemos destacharlo
+- cuando cerramos nuestra app y la volvemos a abrir, los elementos de la lista deben seguir ahí (spoiler: localStorage)
